@@ -25,9 +25,9 @@ You can visit the live version here:
 
 - **HTML5**
 - **CSS3**
-- (Optional JS: For animations/typewriter effect)
+- **JS**
 
-## 📸 Screenshot
+## 📸 Profile Photo
 
 ![Portfolio Preview](profile.jpg)
 
