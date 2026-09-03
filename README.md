@@ -4,8 +4,7 @@ This is my personal portfolio website built using **HTML**, **CSS**, and a touch
 
 ## 🌐 Live Website
 
-You can visit the live version here:  
-👉 [https://ateebfatmi.github.io/syed-portfolio](https://ateebfatmi.github.io/syed-portfolio)
+You can visit the live version here:  https://ateebfatmi.github.io/My-Portfolio/
 
 ## 📂 Features
 
